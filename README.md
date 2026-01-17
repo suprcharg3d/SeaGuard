@@ -7,6 +7,7 @@ SeaGuard adalah aplikasi mobile berbasis Android yang bertujuan untuk membantu p
 ---
 **ZIP Proyek dan Binary APK**
 [SeaGuard APK dan ZIP Proyek](https://github.com/suprcharg3d/SeaGuard/releases/tag/v1.0)
+
 ---
 
 **Pemrograman Mobile Kelas A - Institut Teknologi PLN**
