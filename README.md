@@ -5,7 +5,8 @@
 SeaGuard adalah aplikasi mobile berbasis Android yang bertujuan untuk membantu pelaporan sampah di wilayah pesisir dan laut. Aplikasi ini mendukung pelaporan berbasis lokasi, foto, serta visualisasi data melalui peta.
 
 ---
-**ZIP Proyek dan Binary APK**
+**Download ZIP Proyek dan Binary APK**
+
 [SeaGuard APK dan ZIP Proyek](https://github.com/suprcharg3d/SeaGuard/releases/tag/v1.0)
 
 ---
